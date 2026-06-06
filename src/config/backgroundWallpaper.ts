@@ -70,17 +70,17 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否允许用户通过控制面板切换横幅标题显示
 			switchable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "冰汐梦のBLOG",
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"海内存知己，天涯若比邻",
+				"总之岁月漫长，然而值得等待",
+				"生如逆旅，一苇以航",
+				"夕阳已去，皎月方来",
+				"天生我材必有用，千金散尽还复来",
+				"人生若只如初见，何事秋风悲画扇",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",

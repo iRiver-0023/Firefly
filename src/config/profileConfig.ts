@@ -9,10 +9,10 @@ export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.avif",
 
 	// 名字
-	name: "Firefly",
+	name: "冰汐梦",
 
 	// 个人签名
-	bio: "Hello, I'm Firefly.",
+	bio: "当所有剑都归鞘时，真正的较量才刚刚开始————那是人心与天地的对弈。",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
@@ -28,21 +28,21 @@ export const profileConfig: ProfileConfig = {
 			showName: false,
 		},
 		{
+			name: "bilibili",
+			icon: "fa7-brands:bilibili",
+			url: "https://space.bilibili.com/3546728359790926",
+			showName: false,
+		},
+		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/CuteLeaf",
+			url: "https://github.com/iRiver-0023",
 			showName: false,
 		},
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "mailto:xiaye@msn.com",
-			showName: false,
-		},
-		{
-			name: "RSS",
-			icon: "fa7-solid:rss",
-			url: "/rss/",
+			url: "iriver0023@outlook.com",
 			showName: false,
 		},
 	],
