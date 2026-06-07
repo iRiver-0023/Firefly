@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = {
 	name: "冰汐梦",
 
 	// 个人签名
-	bio: "当所有剑都归鞘时，真正的较量才刚刚开始————那是人心与天地的对弈。",
+	bio: "当所有剑都归鞘时，真正的较量才刚刚开始——那是人心与天地的对弈。",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
