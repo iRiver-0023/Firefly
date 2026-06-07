@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "iRiver-冰河",
 
 	// 站点 URL
-	site_url: "https://irier0023.xyz",
+	site_url: "https://blog.irier0023.xyz",
 
 	// 站点描述
 	description:
