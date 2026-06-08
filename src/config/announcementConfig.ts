@@ -16,7 +16,7 @@ export const announcementConfig: AnnouncementConfig = {
 		// 链接文本
 		text: "了解更多",
 		// 链接 URL
-		url: "/guide/致每一个走进考场的你/",
+		url: "/posts/guide/致每一个走进考场的你/",
 		// 内部链接
 		external: false,
 	},
