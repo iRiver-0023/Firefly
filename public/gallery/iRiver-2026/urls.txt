@@ -1,4 +1,15 @@
 # 每行一个图片 URL，支持 jpg/png/webp/avif/gif后缀
 # # 号开头的行为注释，空行会被忽略
 # 示例：
-https://example.com
+https://tu.irier0023.xyz/file/1780921264493_1777787877255.jpg
+https://tu.irier0023.xyz/file/1780921254013_1777787874599.jpg
+https://tu.irier0023.xyz/file/1780921256195_1777787876884.jpg
+https://tu.irier0023.xyz/file/1780921246054_1777787876617.jpg
+https://tu.irier0023.xyz/file/1780921245998_1777787876199.jpg
+https://tu.irier0023.xyz/file/1780921246015_1777787875091.jpg
+https://tu.irier0023.xyz/file/1780921241172_1777787875658.jpg
+https://tu.irier0023.xyz/file/1780921238247_1777787875382.jpg
+https://tu.irier0023.xyz/file/1780921243450_1777787875918.jpg
+https://tu.irier0023.xyz/file/1780921223696_1777787874866.jpg
+https://tu.irier0023.xyz/file/1780921181870_1777787874293.jpg
+https://tu.irier0023.xyz/file/1780920899276_1777787873719.jpg

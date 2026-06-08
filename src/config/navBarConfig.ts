@@ -94,6 +94,12 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				external: true,
 				icon: "fa7-brands:qq",
 			},
+			{
+				name: "冰汐梦の图床",
+				url: "https://tu.irier0023.xyz",
+				external: true,
+				icon: "fa7-solid:camera",
+			},
 		],
 	});
 
