@@ -23,17 +23,9 @@ export const sponsorConfig: SponsorConfig = {
 	// 赞助方式列表
 	methods: [
 		{
-			name: "支付宝",
-			icon: "fa7-brands:alipay",
-			// 收款码图片路径（需要放在 public 目录下）
-			qrCode: "/assets/images/sponsor/alipay.png",
-			link: "",
-			description: "使用 支付宝 扫码赞助",
-			enabled: true,
-		},
-		{
 			name: "微信",
 			icon: "fa7-brands:weixin",
+			// 收款码图片路径（需要放在 public 目录下）
 			qrCode: "/assets/images/sponsor/wechat.png",
 			link: "",
 			description: "使用 微信 扫码赞助",
@@ -47,7 +39,7 @@ export const sponsorConfig: SponsorConfig = {
 		{
 			name: "iRiver",
 			avatar:
-				"https://weavatar.com/avatar/d252655d40d6874417a720bad0a6c5f77f8f6a1fd2f882f8f338402dc37e4190?s=640",
+				"https://tu.irier0023.xyz/file/1780921907488_avatar.avif",
 			amount: "¥66",
 			date: "2026-06-06",
 		},

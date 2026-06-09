@@ -39,9 +39,18 @@ export const friendsConfig: FriendLink[] = [
 		desc: "飞萤之火自无梦的长夜亮起，绽放在终竟的明天。",
 		siteurl: "https://blog.cuteleaf.cn",
 		tags: ["Blog"],
-		weight: 9, // 权重，数字越大排序越靠前
-		enabled: true, // 是否启用
+		weight: 9, 
+		enabled: true, 
 	},
+	{
+        title: "番茄主理人",
+        imgurl: "https://q1.qlogo.cn/g?b=qq&nk=20447289&s=640",
+        desc: "坐而言不如起而行.",
+        siteurl: "https://fqzlr.com/",
+        tags: ["Blog"],
+	    weight: 8, 
+	    enabled: true, 
+    },
 ];
 
 // 获取启用的友链并进行排序
