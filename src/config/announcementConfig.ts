@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "公告",
 
 	// 公告内容
-	content: "十年磨一剑，今朝试锋芒。祝：笔下生辉！",
+	content: "阿锋 生日快乐！",
 
 	// 是否允许用户关闭公告
 	closable: false,
@@ -14,9 +14,9 @@ export const announcementConfig: AnnouncementConfig = {
 		// 启用链接
 		enable: true,
 		// 链接文本
-		text: "关于我",
+		text: "查看详情",
 		// 链接 URL
-		url: "/about/",
+		url: "/posts/guide/止战之殇阿锋改编版/",
 		// 内部链接
 		external: false,
 	},
