@@ -49,7 +49,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			LinkPresets.Gallery,
 
 			// 番组计划
-			LinkPresets.Bangumi,
+			//LinkPresets.Bangumi,
 		],
 	});
 
